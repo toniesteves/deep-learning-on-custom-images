@@ -58,11 +58,11 @@ Loss                         : 0.61
 #### Dataset Sample
 
 <kbd>
-<img src=https://github.com/toniesteves/deep-learning-on-custom-images/blob/master/sample-cat.jpeg>
+<img src=https://github.com/toniesteves/deep-learning-on-custom-images/blob/master/sample-cat.jpeg width="300" height="300">
 </kbd>
 
 <kbd>
-<img src=https://github.com/toniesteves/deep-learning-on-custom-images/blob/master/sample-dog.jpeg>
+<img src=https://github.com/toniesteves/deep-learning-on-custom-images/blob/master/sample-dog.jpeg width="300" height="300">
 </kbd>
 
 #### Tools / Libraries
