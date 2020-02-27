@@ -3,7 +3,7 @@
 <pre>
 Domain             : Computer Vision, Machine Learning
 Sub-Domain         : Deep Learning, Image Recognition
-Techniques         : Deep Convolutional Neural Network, Inception
+Techniques         : Deep Convolutional Neural Network, Data Augumentation
 Application        : Image Recognition, Image Classification, Pets Imaging
 </pre>
 
@@ -16,21 +16,21 @@ Application        : Image Recognition, Image Classification, Pets Imaging
 
 #### Code
 <pre>
-GitHub Link          : <a href=https://github.com/toniesteves/deep-learning-on-custom-images>Deep Learning on Custom Images(GitHub)</a>
-Linkedin             : <a href=https://www.linkedin.com/in/toniesteves/>Antonio Esteves</a>
+GitHub Link      : <a href=https://github.com/toniesteves/deep-learning-on-custom-images>Deep Learning on Custom Images(GitHub)</a>
+Linkedin         : <a href=https://www.linkedin.com/in/toniesteves/>Antonio Esteves</a>
 </pre>
 
 #### Dataset
 <pre>
 Dataset Name     : Cats and Dogs (Pets)
 Dataset Link     : <a href=https://mega.nz/#!BT5hSSiL!JIMryhr2S8OnpaR2rr-8pcsGPt5Rh6nug0UYZKIpgYo>Cats and Dogs Dataset</a>
-Medium Post   : <a href=https://bit.ly/393cZte>Agrupando conceitos e classificando imagens com Deep Learning</a>
+Medium Post      : <a href=https://bit.ly/393cZte>Agrupando conceitos e classificando imagens com Deep Learning</a>
 
 </pre>
 
 <pre>
-<b>Detalhes do Dataset</b>
-Dataset Name                 : Cats and Dogs
+<b>Dataset Summary</b>
+Dataset Name       : Cats and Dogs
 Number of Classes            : 2
 Images Size                  : Total      : 24994 (811.5 Gigabyte (MB))
                                Train      : 18743 (675.3 Megabyte (MB))
@@ -49,22 +49,31 @@ Batch Size                   : 64
 Número of Épocas             : 100
 Tempo de Treino              : 1 Hours
 
-<b>Saída (Prediction/ Recognition / Classification Metrics)</b>
-<b>Teste</b>
+<b>Output (Prediction/ Recognition / Classification Metrics)</b>
+<b>Test</b>
 Accuracy                     : 99.5%
 Loss                         : 0.61
 </pre>
 
+#### Dataset Sample
+
+<kbd>
+<img src=https://github.com/toniesteves/deep-learning-on-custom-images/blob/master/sample-cat.jpeg>
+</kbd>
+
+<kbd>
+<a href=https://github.com/toniesteves/deep-learning-on-custom-images/blob/master/sample-dog.jpeg>
+</kbd>
 
 #### Tools / Libraries
 <pre>
-Languages               : Python
-Libraries               : Keras, TensorFlow, Inception, ImageNet
+Languages                    : Python
+Libraries                    : Keras, TensorFlow, Inception, ImageNet
 </pre>
 
 #### Dates
 <pre>
-Duration                : February 2020 - Current
-Current Version         : v1.0.0.0
-Last Update             : 27.02.2020
+Duration                      : February 2020 - Current
+Current Version               : v1.0.0.0
+Last Update                   : 27.02.2020
 </pre>
