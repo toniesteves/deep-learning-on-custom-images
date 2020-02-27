@@ -16,15 +16,15 @@ Application        : Image Recognition, Image Classification, Pets Imaging
 
 #### Code
 <pre>
-GitHub Link      : <a href=https://github.com/toniesteves/deep-learning-on-custom-images>Deep Learning on Custom Images(GitHub)</a>
-Linkedin         : <a href=https://www.linkedin.com/in/toniesteves/>Antonio Esteves</a>
+GitHub Link      : <a href=https://github.com/toniesteves/deep-learning-on-custom-images target="_blank">Deep Learning on Custom Images(GitHub)</a>
+Linkedin         : <a href=https://www.linkedin.com/in/toniesteves/ target="_blank">Antonio Esteves</a>
 </pre>
 
 #### Dataset
 <pre>
 Dataset Name     : Cats and Dogs (Pets)
-Dataset Link     : <a href=https://mega.nz/#!BT5hSSiL!JIMryhr2S8OnpaR2rr-8pcsGPt5Rh6nug0UYZKIpgYo>Cats and Dogs Dataset</a>
-Medium Post      : <a href=https://bit.ly/393cZte>Agrupando conceitos e classificando imagens com Deep Learning</a>
+Dataset Link     : <a href=https://mega.nz/#!BT5hSSiL!JIMryhr2S8OnpaR2rr-8pcsGPt5Rh6nug0UYZKIpgYo target="_blank">Cats and Dogs Dataset</a>
+Medium Post      : <a href=https://bit.ly/393cZte target="_blank">Agrupando conceitos e classificando imagens com Deep Learning</a>
 
 </pre>
 
