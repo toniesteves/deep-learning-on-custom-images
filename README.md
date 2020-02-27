@@ -62,7 +62,7 @@ Loss                         : 0.61
 </kbd>
 
 <kbd>
-<a href=https://github.com/toniesteves/deep-learning-on-custom-images/blob/master/sample-dog.jpeg>
+<img src=https://github.com/toniesteves/deep-learning-on-custom-images/blob/master/sample-dog.jpeg>
 </kbd>
 
 #### Tools / Libraries
